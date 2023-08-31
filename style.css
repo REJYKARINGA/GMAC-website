@@ -1,0 +1,18 @@
+.bg-black{
+    background-color: black;
+}
+.about-us p{
+    font-size: 16px;
+    line-height: 28px;
+}
+.font-head-h3{
+    font-size: 40px;
+   
+    
+}
+.contact-us{
+    background-image: url(/images.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
